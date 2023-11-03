@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+body {
+    font-family: 'Stylish', serif;
+    background-image: url('images/rainbow.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 23px;
+    background-blend-mode: darken;
+    height: 90vh;
+
+
+}
+
+/* input [type="text"] {
+    font-size: 78px;
+} */
